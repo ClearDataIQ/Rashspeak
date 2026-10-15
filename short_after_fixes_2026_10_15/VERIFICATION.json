@@ -1,0 +1,57 @@
+{
+  "duration": 12,
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "native_source_size": [
+    1920,
+    1080
+  ],
+  "render_engine": "RashSpeak Pro Editor shared compositor",
+  "voice_reordered": false,
+  "full_decode_passed": true,
+  "frames": 360,
+  "manual_media_selection": true,
+  "manual_caption_corrections": [
+    {
+      "original": "الحالها",
+      "text": "لحالها",
+      "start": 3.1,
+      "source": "Manual spelling review, not Gemini or owner script"
+    }
+  ],
+  "new_live_gemini_calls": false,
+  "automatic_end_to_end_acceptance": false,
+  "ai_generated_images_or_video": false,
+  "sfx_count": 1,
+  "meme_count": 0,
+  "caption_note": "Larger Arabic text, thinner outline, measured RTL wraps and word highlight. Whisper output still needs owner listening review.",
+  "files": [
+    {
+      "file": "Preview.jpg",
+      "bytes": 90556,
+      "sha256": "7fcc3eeef4cf1280595d2edc3f090424f76b7cc14ab7d9fa6827c407ace0c858"
+    },
+    {
+      "file": "RashSpeak_New_Short_1080x1920.mp4",
+      "bytes": 9696098,
+      "sha256": "e44b5ffe3144759a82d08f49248892fdad11382af11f6b56842a861cdb017459"
+    },
+    {
+      "file": "RashSpeak_New_Short_ar.srt",
+      "bytes": 424,
+      "sha256": "7af65ebee9a8007cd64fcb603da0d14f69452db573c0bb7be1f0105f38bde1b5"
+    },
+    {
+      "file": "SOURCE_CREDITS.txt",
+      "bytes": 545,
+      "sha256": "51d2d38288052dd6646fd4c0a7dd67c8778c54bdb2843c2310417bd259bea31e"
+    }
+  ],
+  "integrated_loudness_lufs": -17.0,
+  "true_peak_dbfs": -1.5
+}
