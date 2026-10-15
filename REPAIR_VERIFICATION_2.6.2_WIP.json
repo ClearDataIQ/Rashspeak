@@ -1,0 +1,94 @@
+{
+  "version": "2.6.2 WIP",
+  "full_tests": 253,
+  "full_tests_seconds": 185.268,
+  "test_skips": 0,
+  "fixture_api_tests_are_not_live_integration": true,
+  "real_recording_replay": {
+    "test_mode": "offline_replay_of_existing_genuine_cache",
+    "elapsed_seconds": 80.175,
+    "original_preserved": true,
+    "source_sha256_after": "02faede7626d041188ed01ee32ee5741b591a6f9afadc57453ace6448e8a1801",
+    "status": "needs_media",
+    "ai": {
+      "provider": "gemini",
+      "model": "gemini-3.1-flash-lite",
+      "status": "analysed",
+      "cached": true,
+      "planning_digest": "549c4bed6df12e97139ace2566035567081927db663e06975f8d9ea863251b7f"
+    },
+    "source_status_counts": {
+      "needs_context": 7,
+      "source_unavailable": 133,
+      "cached": 22
+    },
+    "search_count": 0,
+    "quality": {
+      "ready": false,
+      "matching_video_ratio": 0.12856,
+      "placeholder_ratio": 0.87144,
+      "longest_placeholder_seconds": 432.04,
+      "missing_topics": [
+        {
+          "game": "ghost of tsushima",
+          "required_seconds": 60.58,
+          "covered_seconds": 0.0
+        },
+        {
+          "game": "elden ring",
+          "required_seconds": 64.98,
+          "covered_seconds": 28.58
+        },
+        {
+          "game": "red dead redemption 2",
+          "required_seconds": 166.62,
+          "covered_seconds": 0.0
+        },
+        {
+          "game": "assassin s creed mirage",
+          "required_seconds": 33.2,
+          "covered_seconds": 0.0
+        },
+        {
+          "game": "cyberpunk 2077",
+          "required_seconds": 60.06,
+          "covered_seconds": 0.0
+        },
+        {
+          "game": "zelda botw",
+          "required_seconds": 141.68,
+          "covered_seconds": 0.0
+        }
+      ],
+      "duplicate_text_ranges": [],
+      "blockers": [
+        "لقطات متحركة مطابقة تغطي 12.9%؛ المطلوب 80% على الأقل",
+        "البطاقات تغطي 87.1%؛ أطول امتداد 432.0 ثانية",
+        "مواضيع تحتاج لقطات: ghost of tsushima, elden ring, red dead redemption 2, assassin s creed mirage, cyberpunk 2077, zelda botw"
+      ],
+      "effect_count": 0,
+      "meme_count": 0,
+      "thresholds": {
+        "matching_video_ratio": 0.8,
+        "max_placeholder_ratio": 0.1,
+        "max_placeholder_seconds": 4
+      }
+    },
+    "new_live_gemini_requests": false,
+    "new_exported_videos": []
+  },
+  "live_validation_after_repairs": "Blocked by automatic approval review of credential input; no key entered",
+  "steam_live_tested": false,
+  "complete_long_video_accepted": false,
+  "windows_tested": false,
+  "source_recording_included": false,
+  "credentials_included": false,
+  "extracted_package_check": {
+    "source_hashes_verified": 170,
+    "auto_studio_opened": true,
+    "pro_editor_opened": true,
+    "source_settings_opened": true,
+    "api_settings_opened": true,
+    "live_api_calls": false
+  }
+}

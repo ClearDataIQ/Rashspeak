@@ -1,0 +1,23 @@
+{
+  "version": "2.6.2 WIP",
+  "bytes": 582826,
+  "sha256": "ae13da7703fee10aca6b22d388fc94fa9ae43edc7df171a399467b7111d428b9",
+  "source_files": 170,
+  "zip_crc_verified": true,
+  "credential_pattern_hits": 0,
+  "user_recordings_included": false,
+  "models_included": false,
+  "full_tests": 253,
+  "full_tests_seconds": 185.268,
+  "test_skips": 0,
+  "complete_long_video_accepted": false,
+  "steam_live_tested": false,
+  "extracted_package_check": {
+    "source_hashes_verified": 170,
+    "auto_studio_opened": true,
+    "pro_editor_opened": true,
+    "source_settings_opened": true,
+    "api_settings_opened": true,
+    "live_api_calls": false
+  }
+}
