@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RashSpeak_Gameplay_Review_16x9.mp4",
+    "bytes": 21965567,
+    "sha256": "80f3c8560cd636699fc93163d43e597220f6f87d8ac862e491cac994ec2e22ed"
+  },
+  {
+    "name": "RashSpeak_Gameplay_Review_9x16.mp4",
+    "bytes": 16940988,
+    "sha256": "46d77229b96baad5554988006b36eff2225fb639df06a139634afc3e7217b30d"
+  },
+  {
+    "name": "RashSpeak_Real_SFX_Review.mp3",
+    "bytes": 1561580,
+    "sha256": "ea7dd084399bc34984fea640df59c339c5fb0c9772959e4bb29c0779b5c762dc"
+  },
+  {
+    "name": "RashSpeak_Gameplay_Review_16x9.jpg",
+    "bytes": 74886,
+    "sha256": "be417f2e0770ec27eca7b790b920a071a06ac0f7048b15d9631f6f03ff4c83af"
+  },
+  {
+    "name": "RashSpeak_Gameplay_Review_9x16.jpg",
+    "bytes": 49340,
+    "sha256": "f9048862e56ae120ae1fba868aea3315e09272c7f6927896328bbd68328d4991"
+  },
+  {
+    "name": "SOURCE_CREDITS.txt",
+    "bytes": 1021,
+    "sha256": "b2a48853739eee0736ef0d0176cc3e2aa154a2c28ae9af9c8b44a3ae54ab1ef8"
+  }
+]
