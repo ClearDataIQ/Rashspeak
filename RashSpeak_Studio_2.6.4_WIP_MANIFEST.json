@@ -1,0 +1,65 @@
+{
+  "version": "2.6.4 WIP",
+  "release_type": "Source development build",
+  "tests": 308,
+  "test_failures": 0,
+  "tests_skipped": 0,
+  "test_seconds": 184.492,
+  "automatic_end_to_end_acceptance": false,
+  "new_live_gemini_test": false,
+  "new_final_short_export": false,
+  "windows_and_rtx4060_verified": false,
+  "asr_perfect_without_script": false,
+  "features": [
+    "25–60s new Shorts without voice padding/reordering",
+    "Existing compelling hook and complete-ending checks",
+    "Hook/end source quote grounding and owner review display",
+    "Word-anchored sword/magic and general entity visual requests",
+    "Seeded selection among verified full alternatives and same-action scene windows",
+    "Broader bounded multi-source exploration with reusable archive",
+    "Auto source-variety gate: target3, minimum2 meaningful sources"
+  ],
+  "verification": {
+    "encoded_synthetic_short_seconds": 50,
+    "encoded_synthetic_short_frames": 1500,
+    "two_encoded_visual_sources_verified": true,
+    "real_recording_word_anchors_verified": true,
+    "normal_real_audio_no_script_status": "needs_media",
+    "project_variation_seed_persisted": true,
+    "old_57_second_recording_candidate_rejected_for_mid_thought_start": true
+  },
+  "limits": [
+    "Secure Gemini binding unavailable to running application; no new live model test",
+    "Automatic input-to-final montage has not passed acceptance",
+    "A36.30s local candidate from historical cached recording analysis needs review; no automatic final export",
+    "Hook strength/completeness need listening/review when ASR or semantic analysis is uncertain",
+    "Published12s preview predates minimum45s and used manually reviewed source choices"
+  ],
+  "not_bundled": [
+    "API keys",
+    "recordings",
+    "local settings",
+    "models",
+    "media archive",
+    "FFmpeg binaries"
+  ],
+  "startup": "Extract to a new folder; START_WINDOWS.bat; README_AR.md",
+  "old_tool_packages_removed_from_main": [
+    "2.5",
+    "2.6",
+    "2.6.1",
+    "2.6.2 WIP",
+    "2.6.3 WIP"
+  ],
+  "archive_name": "RashSpeak_Studio_2.6.4_WIP.zip",
+  "archive_bytes": 663213,
+  "archive_sha256": "0aa8df4f988c6923671a6e57f7e7e38b1a8639e118d992e0d3295194db108aa4",
+  "source_files": 190,
+  "zip_crc_verified": true,
+  "all_source_hashes_verified": true,
+  "archive_scan_no_credentials": true,
+  "source_bundle_extracted": true,
+  "extracted_auto_and_pro_opened": true,
+  "gui_display": ":102",
+  "source_manifest_unchanged_after_launch": true
+}
