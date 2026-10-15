@@ -1,0 +1,54 @@
+{
+  "all_six_verified": true,
+  "files": [
+    {
+      "name": "RashSpeak_Real_Short_02.mp4",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Real_Short_02.mp4",
+      "http_status": 200,
+      "size": 1486613,
+      "sha256": "b18ff79c550185c98428f23fd4a331c7e57b44e90ea37f3fe30b2f8002e62443",
+      "verified": true
+    },
+    {
+      "name": "RashSpeak_Real_Short_01.mp4",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Real_Short_01.mp4",
+      "http_status": 200,
+      "size": 2216452,
+      "sha256": "ec0dff9d5b78fc9e24f81a3086e3f96a1ebd09fb00ccc8f9cbe180e6431cd0b7",
+      "verified": true
+    },
+    {
+      "name": "RashSpeak_Real_Short_03.mp4",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Real_Short_03.mp4",
+      "http_status": 200,
+      "size": 2332747,
+      "sha256": "18d60d3fae966fb802a0a89d48049d89b124abc8d386e00e7b97d93aa4af214b",
+      "verified": true
+    },
+    {
+      "name": "RashSpeak_Studio_2.5.zip",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.5.zip",
+      "http_status": 200,
+      "size": 354034,
+      "sha256": "44a133f97b3d16230baec08baefd4158ff639b85707050036c73e6959ed3a6f3",
+      "verified": true
+    },
+    {
+      "name": "RashSpeak_Real_Long.mp4",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Real_Long.mp4",
+      "http_status": 200,
+      "size": 56353301,
+      "sha256": "03fb5c6d1cbacd01464ed4cd2bf820a53bb87cc5532d25fcf32bb6aad40f0fad",
+      "verified": true
+    },
+    {
+      "name": "RashSpeak_Real_Full_Project.zip",
+      "url": "https://github.com/ClearDataIQ/Rashspeak/raw/refs/heads/main/RashSpeak_Real_Full_Project.zip",
+      "size": 157461045,
+      "sha256": "ca6707e5b5929805ee05d435e0ad94cf8450d3d4663bb3e9d162add57e4638b4",
+      "verified": true,
+      "verification_method": "fresh remote Git LFS download and full ZIP CRC check"
+    }
+  ],
+  "verification": "All files downloaded from GitHub independently and matched original SHA256; full project ZIP CRC verified."
+}
