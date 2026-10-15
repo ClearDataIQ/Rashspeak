@@ -1,5 +1,4 @@
 {
-  "all_six_verified": true,
   "files": [
     {
       "name": "RashSpeak_Real_Short_02.mp4",
@@ -26,14 +25,6 @@
       "verified": true
     },
     {
-      "name": "RashSpeak_Studio_2.5.zip",
-      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.5.zip",
-      "http_status": 200,
-      "size": 354034,
-      "sha256": "44a133f97b3d16230baec08baefd4158ff639b85707050036c73e6959ed3a6f3",
-      "verified": true
-    },
-    {
       "name": "RashSpeak_Real_Long.mp4",
       "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Real_Long.mp4",
       "http_status": 200,
@@ -50,5 +41,6 @@
       "verification_method": "fresh remote Git LFS download and full ZIP CRC check"
     }
   ],
-  "verification": "All files downloaded from GitHub independently and matched original SHA256; full project ZIP CRC verified."
+  "verification": "All files downloaded from GitHub independently and matched original SHA256; full project ZIP CRC verified.",
+  "verification_scope": "Historical retained media downloads only; current tool verification is delivered separately."
 }

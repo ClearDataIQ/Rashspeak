@@ -26,12 +26,14 @@
       "sha256": "ca6707e5b5929805ee05d435e0ad94cf8450d3d4663bb3e9d162add57e4638b4"
     },
     {
-      "name": "RashSpeak_Studio_2.5.zip",
-      "size": 354034,
-      "sha256": "44a133f97b3d16230baec08baefd4158ff639b85707050036c73e6959ed3a6f3"
+      "name": "RashSpeak_Studio_2.6.3_WIP.zip",
+      "size": 627458,
+      "sha256": "1ad71e9261f79065ddf2c874cdb17f77d8fc6744e3f18ecd5ef7aaef738c65f9"
     }
   ],
-  "total_bytes": 220204192,
+  "total_bytes": 220477616,
   "delivery": "GitHub public upload authorized by owner",
-  "rendered_again": false
+  "rendered_again": false,
+  "current_tool_version": "2.6.3 WIP",
+  "retained_media_note": "Historical outputs preserved; old card-heavy results are not accepted montage."
 }
