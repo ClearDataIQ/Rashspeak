@@ -1,0 +1,60 @@
+{
+  "version": "2.6.6 WIP",
+  "release_type": "Tested development source build",
+  "tests": 346,
+  "test_seconds": 162.181,
+  "test_failures": 0,
+  "tests_skipped": 0,
+  "post_suite_targeted_tests_passed": 18,
+  "short_range_seconds": [
+    25,
+    60
+  ],
+  "automatic_end_to_end_acceptance": false,
+  "new_live_gemini_test": false,
+  "new_live_steam_test": false,
+  "new_final_video_export": false,
+  "exact_owner_http400_cause_proven": false,
+  "openrouter_integrated": false,
+  "local_vision_model_added": false,
+  "features": [
+    "Bounded Gemini400 classification without raw echoed message or keys",
+    "Explicit-schema-rejection compatibility only; same model/input, JSON mode, existing validation",
+    "Explicit unsupported thinking option repair; no retry for key/account/unknown400",
+    "Separate production-schema text generation test with no owner media",
+    "Exact Steam AppID/type/title check with trademark normalization and separate unavailable listing",
+    "Actionable diagnostics separating request/account/identity/listing from proxy failures"
+  ],
+  "verification": {
+    "protocol_tests": 18,
+    "actual_tk_controls_visible_at": "780x690",
+    "official_google_rest_discovery_read": true,
+    "official_google_structured_output_doc_read": true,
+    "openrouter_catalog_live_checked": false,
+    "openrouter_catalog_blocker": "ProxyError before authentication"
+  },
+  "limits": [
+    "Exact owner400 cause unproven; no live application key injected in cloud",
+    "Source rights and real scene evidence still required; no final user-video produced",
+    "OpenRouter suggested only; no connector or free quota/model guarantee",
+    "Windows/RTX4060/EXE unverified"
+  ],
+  "not_bundled": [
+    "API keys",
+    "settings",
+    "recordings",
+    "models",
+    "media archive",
+    "FFmpeg binaries"
+  ],
+  "upgrade": "Replace source files, preserve output/models/archive. Read docs/GEMINI_REQUEST_REPAIR_2.6.6_AR.md.",
+  "archive_name": "RashSpeak_Studio_2.6.6_WIP.zip",
+  "archive_bytes": 729125,
+  "archive_sha256": "94c35bb108616daaeef7b42a1fdb67a3cf0768a9c9b71c1d9a1212d174ccb8ce",
+  "source_files": 206,
+  "zip_crc_verified": true,
+  "all_source_hashes_verified": true,
+  "archive_scan_no_credentials": true,
+  "extracted_auto_and_pro_opened": true,
+  "extracted_generation_button_available": true
+}
