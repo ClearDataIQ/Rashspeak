@@ -1,0 +1,63 @@
+{
+  "version": "2.6.5 WIP",
+  "release_type": "Source development build",
+  "tests": 328,
+  "test_failures": 0,
+  "tests_skipped": 0,
+  "test_seconds": 188.793,
+  "short_range_seconds": [
+    25,
+    60
+  ],
+  "automatic_end_to_end_acceptance": false,
+  "new_live_gemini_test": false,
+  "new_final_video_export": false,
+  "features": [
+    "Explicit blocked-media recovery and safe copyable diagnosis",
+    "Separate unknown context, source rights, scene evidence, source outage and Gemini errors",
+    "Deduplicated pending-source review with explicit per-video/channel permission scope",
+    "Context and source retry without ASR/audio rerun inside the same media-review cycle",
+    "Grounded cross-caption game-name detection without changing words or backfilling intro",
+    "Gemini404 outage circuit and visible source-review controls",
+    "Natural narration: preserved channels, optional gentle denoise and fixed measured gain",
+    "One owned audio audition prevents overlapping original/clean previews",
+    "Arabic paragraph direction and API controls, verbatim masked ASCII keys"
+  ],
+  "verification": {
+    "context_source_retry_integration": true,
+    "audio_processing_calls_in_retry_test": 1,
+    "asr_calls_in_retry_fixture_test": 0,
+    "synthetic_source_permissions_not_real_licenses": true,
+    "real_no_script_cached_whisper_status": "needs_media",
+    "real_recording_unchanged": true,
+    "actual_stereo_voice_check_seconds": 8,
+    "real_voice_channels_preserved": 2,
+    "user_echo_cause_proven": false,
+    "hardware_listening_verified": false,
+    "real_local_game_context_requests": 154,
+    "real_intro_unknown_requests": 7
+  },
+  "limits": [
+    "No live Gemini/YouTube test in this build; managed credential binding unavailable to application",
+    "User must document actual source permission when pending; keys/public listing alone do not grant it",
+    "Scene matching still required after source permission; automatic final montage acceptance unmet",
+    "Windows/RTX4060/EXE unverified"
+  ],
+  "not_bundled": [
+    "API keys",
+    "recordings",
+    "settings",
+    "models",
+    "media archive",
+    "FFmpeg binaries"
+  ],
+  "upgrade": "Back up source; replace app source files in current app folder; preserve output/models. See docs/MEDIA_REVIEW_RECOVERY_AR.md.",
+  "archive_name": "RashSpeak_Studio_2.6.5_WIP.zip",
+  "archive_bytes": 700319,
+  "archive_sha256": "e3126fef8448a7684f356e6c9b2e18fb7a837ae18cc9ce45b27c006defb44b01",
+  "source_files": 200,
+  "zip_crc_verified": true,
+  "all_source_hashes_verified": true,
+  "archive_scan_no_credentials": true,
+  "extracted_auto_and_pro_opened": true
+}
