@@ -1,0 +1,51 @@
+{
+  "version": "2.7.3 WIP",
+  "source_commit": "143318681d350cc55ef621c452b6b7ee09533aea",
+  "checks": [
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/143318681d350cc55ef621c452b6b7ee09533aea/RashSpeak_Studio_2.7.3_WIP.zip",
+      "HTTP": 200,
+      "size": 833964,
+      "sha256": "9269df9bafccb5f14653e5dbff83a2c0f455d4e3552a2fa8050bfc8c2d80e4da",
+      "CRC": true,
+      "file_hashes": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.7.3_WIP.zip",
+      "HTTP": 200,
+      "size": 833964,
+      "sha256": "9269df9bafccb5f14653e5dbff83a2c0f455d4e3552a2fa8050bfc8c2d80e4da",
+      "CRC": true,
+      "file_hashes": true
+    }
+  ],
+  "tests": 413,
+  "files": 251,
+  "historical_media_blobs_unchanged": 12,
+  "Git_history_preserved": true,
+  "native_minimal_source_form_observed_AFTER_package_creation": true,
+  "package_release_status_was_recorded_before_native_visual_check": true,
+  "two_license_fields_absent_optional_host_present": true,
+  "locally_extracted_START_WINDOWS_BAT_launched_and_exited_zero": true,
+  "downloaded_bytes_identical_to_launched_archive": true,
+  "downloaded_extracted_BAT_launched": false,
+  "runtime": "Existing local virtualenv linked outside ZIP; not standalone EXE",
+  "local_source_installation": {
+    "version": "2.7.3 WIP",
+    "source_files_verified": 251,
+    "private_json_files_hashed": 140,
+    "protected_JSON_unchanged": true,
+    "original_recording_SHA_unchanged": true,
+    "no_owner_source_grants_added": true,
+    "no_quota_or_credential_changes": true,
+    "owner_running_windows_kept": true,
+    "restart_required": true,
+    "native_source_form_observed_after_packaging": true,
+    "extracted_BAT_started_and_exited_zero": true
+  },
+  "dedicated_live_API_checks": 0,
+  "total_suite_API_requests": "Not instrumented",
+  "real_channel_full_production_retested": false,
+  "new_accepted_long_or_Shorts": 0,
+  "public_contains_owner_settings_keys_or_recordings": false
+}
