@@ -1,0 +1,10 @@
+RashSpeak2.7.3 WIP:413 tests passed,0failures,0skips,171.898s.
+New11 tests use declared fixtures: minimal Tk form, optional auto/manual hosts, bounded source/channel scope,
+legacy grants, unknown-license provenance, source/scene/network checks, real FFmpeg probe/render, archive reuse,
+project reopen and delivery credit report preserve owner decision without publisher permission claim.
+No actual owner source was approved by these tests; no dedicated live API or real-recording production test.
+Intermediate suite exposed a synthetic production fixture inheriting a real configured model;
+that class now explicitly isolates its credentials and deterministic local meme assertions remain unchanged.
+Full-suite API traffic was not instrumented, so zero requests is not asserted.
+Baseline37 source tests passed before changes; focused30 tests plus5 production tests passed after changes.
+Original recordings/projects/settings/keys preserved; no new channel-ready long or Shorts claimed.

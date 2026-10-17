@@ -1,0 +1,22 @@
+{
+  "version": "2.7.3 WIP",
+  "tests": 413,
+  "failures": 0,
+  "skips": 0,
+  "seconds": 171.898,
+  "scope": "Remove license/policy fields; optional auto-host; explicit owner usage decision through pipeline and export",
+  "platform": "Actual Windows11 / Python3.13 / Tk8.6",
+  "new_regressions": 11,
+  "source_UI_tested_with_real_Tk_widgets": true,
+  "new_native_visual_inspection": false,
+  "declared_mock_network_with_real_FFmpeg_probe_render_export": true,
+  "owner_record_license_unknown_preserved": true,
+  "old_documented_grants_compatible": true,
+  "owner_source_decisions_saved_automatically_by_developer": false,
+  "dedicated_live_API_tests": 0,
+  "total_live_API_requests": "Not instrumented; do not claim zero",
+  "owner_recording_ASR_or_DSP_rerun": false,
+  "real_channel_production_acceptance": "Not repeated; source selection and matching still require completion",
+  "standalone_EXE": false,
+  "owner_windows_left_open": true
+}

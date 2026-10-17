@@ -1,3 +1,30 @@
+# Current continuation — 2.7.3 minimal source fields (2026-10-17)
+
+Owner explicitly superseded the old mandatory publisher-evidence workflow:
+remove license-name and policy-link UI fields; retain download-host field if
+useful and explain it. UI now retains source scope, the existing agreement
+checkbox and Save; host is optional/autofilled from actual candidate URL.
+No extra mode selector. Record explicit decisions as owner_accepted with an
+owner_decision scope/time, license unknown, empty evidence_url, and false
+publisher_permission_verified; never fabricate publisher permission.
+Legacy documented grants still work. Unknown unselected sources remain pending.
+New source_usage.py carries this across planning, acquisition, archive and
+Auto/Pro export. Scene matching and network/provider limits remain unchanged.
+No OS/key/credential/quota changes or real source approvals in tests. Do not
+undo this human instruction because historical AGENTS/memory required evidence.
+
+Most recent observed real owner project 2026-10-17_14-53-07 already has164
+analysed semantic rows; do not claim its context is still blocked by old quota.
+Remaining blocked media includes157 sentence requests awaiting source decisions,
+8 generic-intro context gaps,4 no-source requests and2 invalid selections.
+These are sentence counts, not counts of independent source videos. This patch
+only simplifies source fields/use decisions; it does not fix generic intro
+backgrounds or clipped review tables, or certify full recording production.
+Preserve the active owner windows/inputs and all output/models/venv/settings.
+Restart after saving the current review to load2.7.3; never hot-patch owner UI.
+
+---
+
 # Current continuation — 2.7.2 paste and context recovery (2026-10-17)
 
 Read CHANGELOG_2.7.2_WIP_AR.md and docs/PASTE_CONTEXT_RECOVERY_2.7.2_AR.md.
