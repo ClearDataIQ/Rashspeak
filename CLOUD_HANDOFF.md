@@ -1,3 +1,16 @@
+# Published source verification — 2.7 WIP (2026-10-17)
+
+Source commit 5c03e61d4798a2c51cc2ea65c4996a6187c25542 is published.
+Actual immutable and main downloads HTTP200,800063bytes, SHA256
+240463c76423cf8d9b05b68c7d9004c8a14cf328ba5e70633cee69bf066e693f.
+ZIP CRC and all233 source hashes passed; actual downloaded extracted Auto
+launched on owner Windows with existing venv. Local extracted Pro opened
+the real draft. All12 historical media/project blobs and Git parent kept.
+Old tool ZIP404 at new commit; private owner project/audio/settings excluded.
+See PUBLIC_DELIVERY_VERIFIED_2.7.json. No new final episode or Shorts accepted.
+
+---
+
 # Current Windows continuation — 2.7 WIP (2026-10-17)
 
 Latest source is this 2.7 continuation of the owner's verified local 2.6.8,
