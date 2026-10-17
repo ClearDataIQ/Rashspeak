@@ -1,0 +1,8 @@
+RashSpeak Studio 2.7 WIP — actual Windows owner machine
+382 tests, 0 failures, 0 skips, 149.553s.
+Baseline363; final suite after all functional source edits. Fixtures and synthetic render tests are declared.
+Google real text/image/video probes passed; real context then429. OpenRouter live account NOT tested.
+Real 30s/no-script + declared ASR-derived-script samples and full673s production: needs_media/0%matching footage.
+Fresh CUDA ASR full54.01s; real resume noASR/noDSP/noPOST. NVENC synthetic visual1080p2s decoded.
+No accepted new final episode/Shorts; subjective echo and complete human UI production NOT verified.
+See docs/DAILY_PRODUCTION_2.7_AR.md and RELEASE_STATUS_2.7_WIP.json.

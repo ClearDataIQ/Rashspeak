@@ -1,0 +1,137 @@
+{
+  "version": "2.7 WIP",
+  "date": "2026-10-17",
+  "tests": 382,
+  "failures": 0,
+  "skipped": 0,
+  "seconds": 149.553,
+  "baseline_tests": 363,
+  "platform": "Actual owner Windows 11 Pro / Python 3.13.15",
+  "hardware": {
+    "os": "Microsoft Windows 11 Pro",
+    "build": "26300",
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13620H",
+    "cores": 10,
+    "logical": 16,
+    "ram_bytes": 16866463744,
+    "free_ram_bytes": 2610196480,
+    "gpu": [
+      "Intel(R) UHD Graphics",
+      "NVIDIA GeForce RTX 4060 Laptop GPU"
+    ],
+    "driver": [
+      "32.0.101.7092",
+      "32.0.16.1742"
+    ],
+    "disk_free_bytes": 135840882688,
+    "disk_size_bytes": 1012139028480
+  },
+  "nvidia_runtime": {
+    "driver": "617.42",
+    "vram_mib": 8188,
+    "os_driver_changed": false,
+    "venv_packages": {
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cuda-nvrtc-cu12": "12.9.86",
+      "nvidia-cudnn-cu12": "9.27.0.42"
+    }
+  },
+  "local_dependencies_consistent": true,
+  "real_cuda_sample": {
+    "original_sha256": "2d2a8a2a02e5acaa7b8aaf9413fd41619c281db8cacbc7cfa8763f63ce7dbab1",
+    "sample_seconds": 30,
+    "synthetic_input": false,
+    "device": "cuda",
+    "ok": true,
+    "words": 74,
+    "segments": 15,
+    "seconds": 6.725562699983129,
+    "original_unchanged": true
+  },
+  "real_cuda_full": {
+    "original_sha256": "2d2a8a2a02e5acaa7b8aaf9413fd41619c281db8cacbc7cfa8763f63ce7dbab1",
+    "sample_seconds": 673.358367,
+    "synthetic_input": false,
+    "device": "cuda",
+    "ok": true,
+    "words": 1599,
+    "segments": 293,
+    "seconds": 54.007372599997325,
+    "original_unchanged": true
+  },
+  "ai": {
+    "provider": "google",
+    "model": "gemini-3.1-flash-lite",
+    "actual_text_image_video_json_checks_passed": true,
+    "account_billing_tier_verified": false,
+    "real_context_quota_http": 429,
+    "persistent_quota_stop": true,
+    "openrouter": "Declared fixtures only; no live account/generation validation",
+    "custom_gateways_supported": false
+  },
+  "real_production": {
+    "sample_without_script": "needs_media",
+    "sample_with_declared_asr_derived_script": "needs_media",
+    "full_original": "needs_media",
+    "manual_hidden_media_choices": false,
+    "asr_or_asset_overrides": false,
+    "full_run_initial_asr": "Existing genuine input-validated local Whisper cache",
+    "fresh_full_cuda_inference_separately_verified": true,
+    "verified_footage_coverage": 0,
+    "approved_archive_assets": 0,
+    "new_accepted_long": false,
+    "new_accepted_shorts": 0,
+    "reviews_in_test": "automatic_test_or_cli; owner approval not fabricated",
+    "normal_stage_reviews_enabled": true
+  },
+  "resume": {
+    "normal_producer_resumed": true,
+    "asr_rerun": false,
+    "dsp_rerun": false,
+    "outgoing_generation_requests": 0,
+    "same_original_sha256": "2d2a8a2a02e5acaa7b8aaf9413fd41619c281db8cacbc7cfa8763f63ce7dbab1",
+    "original_unchanged": true,
+    "sample_channels_before": 2,
+    "sample_channels_after": 2,
+    "sample_rate_before": 48000,
+    "sample_rate_after": 48000,
+    "sample_frames_before": 1440000,
+    "sample_frames_after": 1440000,
+    "per_channel_correlation": [
+      0.9247226305488961,
+      0.9255970708939322
+    ],
+    "echo_cause_confirmed": false,
+    "physical_listening_performed": false,
+    "note": "Numerical preservation checks do not prove subjective absence of echo; app uses one owned audio preview."
+  },
+  "nvenc": {
+    "actual_1080p_shared_pro_render_and_decode": true,
+    "seconds": 2,
+    "synthetic_visual": true,
+    "actual_owner_narration": true,
+    "channel_acceptance": false
+  },
+  "ui": {
+    "native_main_observed": true,
+    "tk_integration_tested": true,
+    "minimum_window_action_visibility_tested": true,
+    "full_human_ui_production_cycle_verified": false
+  },
+  "project_bridge": {
+    "canonical_auto_pro_project": true,
+    "conflicting_auto_manual_edits": "Stop and preserve; automatic merge not implemented"
+  },
+  "delivery": {
+    "source_bundle": true,
+    "standalone_exe": false,
+    "launcher": "START_WINDOWS.bat",
+    "private_projects_recordings_keys_in_source": false
+  },
+  "remaining": [
+    "Quota recovery or a separately verified eligible free API account",
+    "Licensed and visually verified matching footage and real archive reuse acceptance",
+    "Human listening and transcript/take review; original echo cause remains unconfirmed",
+    "Real final long/25-60s Shorts and full UI acceptance after those blockers are resolved"
+  ]
+}
