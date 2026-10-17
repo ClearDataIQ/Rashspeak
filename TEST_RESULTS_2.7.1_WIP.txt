@@ -1,0 +1,7 @@
+RashSpeak2.7.1 WIP:390 tests passed,0failures,0skips,151.797s.
+Actual Windows native dialog and Tk comparison, actual ModelChoice and actual no-audio validation message observed.
+New7 regressions: logical native payload; confirmation/cancel return values; Tk direction and raw StringVar;
+named model buttons; restored modal grab; cancel with no download; exact named-model download routing with mocks.
+No real model download/API request/media render acceptance performed for this patch.
+Initial runs retained: missing optional yt_dlp in fresh venv; numeric-unit regression caught and repaired.
+Installed optional media dependency and verified pip check. Final suite includes both repairs.

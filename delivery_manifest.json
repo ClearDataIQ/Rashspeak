@@ -26,15 +26,15 @@
       "sha256": "ca6707e5b5929805ee05d435e0ad94cf8450d3d4663bb3e9d162add57e4638b4"
     },
     {
-      "name": "RashSpeak_Studio_2.7_WIP.zip",
-      "size": 801803,
-      "sha256": "4c420b22be33a62a57607d7b3e81c6bd2049a85b026b4660ed7e3905f49f111f"
+      "name": "RashSpeak_Studio_2.7.1_WIP.zip",
+      "size": 811908,
+      "sha256": "1f38b1cbf094633ff1db4c1a97826e056c5e3b7e1129f7b5a5a77d502cea0038"
     }
   ],
-  "total_bytes": 220651961,
+  "total_bytes": 220662066,
   "delivery": "GitHub public upload authorized by owner",
   "rendered_again": false,
-  "current_tool_version": "2.7 WIP",
+  "current_tool_version": "2.7.1 WIP",
   "retained_media_note": "Historical media unchanged; rejected old montage is not new acceptance.",
   "new_final_video_accepted": false,
   "new_shorts_accepted": 0,
