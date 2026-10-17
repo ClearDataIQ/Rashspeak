@@ -1,3 +1,18 @@
+# Verified final source delivery — 2.7 WIP (2026-10-17)
+
+Final source commit097bc57cd85ca91394ac0516cbf7557460186fb1 published;
+383 tests passed after actual Windows launcher correction. Immutable and
+main HTTP200,801803bytes; SHA256
+4c420b22be33a62a57607d7b3e81c6bd2049a85b026b4660ed7e3905f49f111f.
+CRC and all234 source-file hashes matched. Actual downloaded extracted
+START_WINDOWS.bat launched and exited0 using existing owner-device venv.
+All12 historical media/project blobs and parent Git history preserved.
+Original recording/projects/models/keyring preserved; private draft stays
+local. Real production remains needs_media; no accepted new long/Shorts.
+See PUBLIC_DELIVERY_VERIFIED_2.7.json for exact evidence.
+
+---
+
 Windows launcher correction after initial publication: actual START_WINDOWS.bat now opens. Hashing uses .NET for both dependency lists; real Arabic-space-path regression and final383-test suite pass. Original account quota stop and no-final-media status unchanged.
 
 # Current Windows continuation — 2.7 WIP (2026-10-17)

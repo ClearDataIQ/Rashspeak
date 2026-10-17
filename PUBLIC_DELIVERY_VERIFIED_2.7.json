@@ -1,20 +1,39 @@
 {
   "version": "2.7 WIP",
-  "package": {
-    "file": "RashSpeak_Studio_2.7_WIP.zip",
-    "size": 801803,
-    "sha256": "4c420b22be33a62a57607d7b3e81c6bd2049a85b026b4660ed7e3905f49f111f",
-    "files": 234,
-    "zip_crc_passed": true,
-    "all_source_hashes_matched": true,
-    "exact_bound_secret_scan_passed": true,
-    "source_blob_sha1": "09360bea9d2f986e063bc8e6d1e6c4dda38a323c"
-  },
-  "local_extracted_auto_launched": true,
-  "local_extracted_provider_settings_observed": true,
-  "local_extracted_pro_opened_owner_draft": true,
-  "runtime": "Existing owner-device Python virtualenv; no bundled EXE",
-  "remote_download": "Pending actual post-publication HTTP verification; no live claim in this prepublication record",
-  "final_video_accepted": false,
-  "shorts_accepted": 0
+  "source_commit": "097bc57cd85ca91394ac0516cbf7557460186fb1",
+  "checks": [
+    {
+      "ref": "097bc57cd85ca91394ac0516cbf7557460186fb1",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/097bc57cd85ca91394ac0516cbf7557460186fb1/RashSpeak_Studio_2.7_WIP.zip",
+      "http_status": 200,
+      "size": 801803,
+      "sha256": "4c420b22be33a62a57607d7b3e81c6bd2049a85b026b4660ed7e3905f49f111f",
+      "zip_crc_passed": true,
+      "all_source_file_hashes_matched": true
+    },
+    {
+      "ref": "main",
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.7_WIP.zip",
+      "http_status": 200,
+      "size": 801803,
+      "sha256": "4c420b22be33a62a57607d7b3e81c6bd2049a85b026b4660ed7e3905f49f111f",
+      "zip_crc_passed": true,
+      "all_source_file_hashes_matched": true
+    }
+  ],
+  "old_tool_zip_http_status": 404,
+  "git_history_preserved": true,
+  "protected_historical_media_blobs_unchanged": 12,
+  "source_files": 234,
+  "source_byte_identical_to_locally_extracted_app_test": true,
+  "local_extracted_auto_provider_settings_and_pro_opened": true,
+  "final_383_tests_passed": true,
+  "actual_final_extracted_BAT_launch_and_successful_exit": true,
+  "actual_final_downloaded_BAT_launch": true,
+  "runtime": "Existing owner-device virtualenv; no standalone EXE",
+  "accepted_new_long": false,
+  "accepted_new_shorts": 0,
+  "real_production_status": "needs_media",
+  "private_recording_projects_settings_uploaded": false,
+  "actual_final_downloaded_BAT_exit_code": 0
 }
