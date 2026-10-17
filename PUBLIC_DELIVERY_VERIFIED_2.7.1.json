@@ -1,0 +1,36 @@
+{
+  "version": "2.7.1 WIP",
+  "source_commit": "36f378664dd3c1a10aeae0ec04476893f532f3f1",
+  "checks": [
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/36f378664dd3c1a10aeae0ec04476893f532f3f1/RashSpeak_Studio_2.7.1_WIP.zip",
+      "http_status": 200,
+      "size": 811908,
+      "sha256": "1f38b1cbf094633ff1db4c1a97826e056c5e3b7e1129f7b5a5a77d502cea0038",
+      "CRC": true,
+      "all_file_hashes": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.7.1_WIP.zip",
+      "http_status": 200,
+      "size": 811908,
+      "sha256": "1f38b1cbf094633ff1db4c1a97826e056c5e3b7e1129f7b5a5a77d502cea0038",
+      "CRC": true,
+      "all_file_hashes": true
+    }
+  ],
+  "tests": 390,
+  "source_files": 240,
+  "historical_media_blobs_unchanged": 12,
+  "git_history_preserved": true,
+  "actual_ui_readability_and_named_model_choice_observed": true,
+  "locally_extracted_BAT_launched_and_exited_zero": true,
+  "downloaded_extracted_BAT_launched": true,
+  "downloaded_extracted_BAT_exit": 0,
+  "runtime": "Existing local virtualenv, linked outside ZIP",
+  "owner_running_app_preserved": true,
+  "private_recordings_keys_settings_uploaded": false,
+  "new_model_downloads": 0,
+  "new_live_API_requests": 0,
+  "new_accepted_videos": 0
+}
