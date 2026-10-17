@@ -1,0 +1,37 @@
+{
+  "version": "2.8 WIP",
+  "tests": 424,
+  "failures": 0,
+  "skips": 0,
+  "seconds": 183.603,
+  "new_regressions": 11,
+  "scope": "Guided modern Studio, staged recovery, explicit current-attempt bulk source usage; generic intro backgrounds from verified episode footage",
+  "platform": "Actual Windows11 / Python3.13 / Tk8.6",
+  "minimum_size_Tk_layout_tested": "1040x660",
+  "read_only_real_saved_project_audit": {
+    "text_analysis": "analysed",
+    "scene_blocker": "quota429",
+    "intro_requests": 8,
+    "JSON_unchanged": 114
+  },
+  "native_recovery_visual_QA": true,
+  "native_final_package_QA": "Recorded after archive freeze in delivery proof",
+  "no_implicit_API_or_quota_resume_in_guided_settings_tests": true,
+  "no_test_real_owner_source_approval": true,
+  "bulk_owner_scope": "Exact IDs from this attempt, deduplicated; license unknown; no publisher permission invented",
+  "dedicated_live_API_tests": 0,
+  "total_suite_API_requests": "Not instrumented; do not claim zero",
+  "owner_ASR_DSP_or_full_production_retested_by_developer": false,
+  "new_accepted_long_or_Shorts": 0,
+  "owner_active_windows_preserved": true,
+  "project_schema_changed": false,
+  "standalone_EXE": false,
+  "source_package_excludes": [
+    "credentials",
+    "owner settings",
+    "output",
+    "recordings",
+    "models",
+    ".venv"
+  ]
+}

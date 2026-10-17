@@ -1,0 +1,13 @@
+RashSpeak2.8 WIP:424 tests passed,0failures,0skips,183.603s.
+11 new declared regressions: scoped deduplicated explicit bulk approval, no implicit source approvals,
+no cross-source grants, unsupported/unverified candidates, retained quota, quota-first guidance,
+dark theme and nested1040x660 layout/manual toggle, API guide opens without sending or resuming,
+save failure leaves review intact, general intro classification including legacy title rows,
+verified episode-only excerpt duration/pixel/scene/usage bounds. Existing real FFmpeg tests retained.
+Earlier423-test run passed216.301s before final legacy-intro test; final424run above is authoritative.
+Read-only real saved-project audit: analysed text, scene429,8intro rows reclassified on deep UI copy;
+114private project JSON unchanged. No real source grants or quota resets by tests.
+Native Windows recovery screen and optional details observed at1040x660.
+Full-suite API traffic not instrumented; no dedicated live API request or full-recording acceptance.
+Owner started using a main visual-QA window; it was preserved, not closed or relabelled as test success.
+ZIP/extracted launcher/native final appearance/download checks recorded separately after freeze.

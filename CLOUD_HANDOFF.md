@@ -1,3 +1,44 @@
+# Current continuation — 2.8 guided Studio (2026-10-17)
+
+Owner requests a simpler modern daily workflow and one-click approval of this
+attempt's sources. Keep the existing production/editor engine and project schema.
+Default UI: recording + optional script + Start; phase strip/progress appear only
+while working. Review: actual preview controls + one main next action; manual
+notebooks/edit actions are hidden until requested. Dark clam theme avoids native
+gray tabs; per-window supported Windows dark title bar is optional, not an OS change.
+
+Recovery guide prioritizes quota/account/key/model/request/source/context causes.
+Existing media draft examined read-only: text analysis succeeded; scene selection
+stopped at quota429 (163 sentence requests). Eight generic intro requests are
+separate from this service failure. No guessed reset time, auto resume, provider
+rotation or new live request. Audio/ASR/cut decisions remain saved. Guided API
+settings only send/resume on explicit action. Existing source review continues
+through media revision, never redoing audio simply to recover scene selection.
+
+Bulk approval is an explicit owner button, deduplicated and scoped to current
+candidate IDs, with timestamp and unknown license / no fabricated publisher
+permission. Opening the review grants nothing. Existing grants remain compatible;
+unsupported/unverified channels and AI-generated candidates are not bulk approved.
+No test approved a real owner source or cleared a real quota circuit.
+
+Generic intros: before first known game within60s, no game/entities, general intent,
+recognized intro idea; confidence>=.75 OR legacy title/no-query rows>=.5. The
+latter is an editorial-background classification, not game/scene verification.
+No game is attached to these words. Only actual verified, accepted episode video
+excerpts can fill them, bounded by downloaded duration and source resolution.
+No invented footage/timestamps, cards-to-final bypass, or lowered quality gates.
+Eight cached intro rows migrated only on a deep review copy;114 owner project JSON
+files unchanged during read-only audit. No accepted new long/Short claimed.
+
+Preserve active owner windows, including a source2.8 visual-QA window the owner
+started using for production; do not close it or overwrite its output/config.
+Keep installed output/models/.venv/keyring and source output private. Restart
+required after source installation; source package excludes private runtime/data.
+Read docs/GUIDED_STUDIO_2.8_AR.md and TEST_RESULTS_2.8_WIP.txt. Full tests/package,
+extracted launcher and actual HTTP checksum evidence are recorded separately.
+
+---
+
 # Current continuation — 2.7.3 minimal source fields (2026-10-17)
 
 Owner explicitly superseded the old mandatory publisher-evidence workflow:
