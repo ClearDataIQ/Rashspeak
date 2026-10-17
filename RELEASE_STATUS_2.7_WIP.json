@@ -1,10 +1,10 @@
 {
   "version": "2.7 WIP",
   "date": "2026-10-17",
-  "tests": 382,
+  "tests": 383,
   "failures": 0,
   "skipped": 0,
-  "seconds": 149.553,
+  "seconds": 131.735,
   "baseline_tests": 363,
   "platform": "Actual owner Windows 11 Pro / Python 3.13.15",
   "hardware": {
@@ -111,6 +111,11 @@
     "synthetic_visual": true,
     "actual_owner_narration": true,
     "channel_acceptance": false
+  },
+  "windows_launcher": {
+    "actual_START_WINDOWS_bat_launch_observed": true,
+    "hash_uses_dotnet_without_optional_cmdlet": true,
+    "arabic_space_path_missing_cmdlet_regression_passed": true
   },
   "ui": {
     "native_main_observed": true,
