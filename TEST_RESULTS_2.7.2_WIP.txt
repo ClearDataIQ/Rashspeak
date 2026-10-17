@@ -1,0 +1,11 @@
+RashSpeak Studio2.7.2 WIP:402 tests passed,0failures,0skips,132.488s on Windows.
+12 new regressions use declared fixtures; no real clipboard, credentials or network calls in tests.
+Full suite includes actual FFmpeg render/integration tests with declared synthetic media.
+Native API panel paste button clicked with an isolated dummy clipboard_get; masked value verified.
+Windows native-theme white-on-white field defect observed and corrected; model/provider readable.
+Actual owner media draft displayed read-only at1040x660; recovery buttons visible above tabs.
+Legacy Short-range error separated from network/key failure, pending rights remain blocked.
+Original current project metadata snapshotted privately; original MP3 SHA256 unchanged.
+Real key preflight found previous same-key quota stop; zero new generation requests, no quota reset.
+No new ASR or accepted final media; source rights and visual matching still require completion.
+Initial 401-test run passed179.365s; final402-test run includes contrast and report-refresh changes.

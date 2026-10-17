@@ -1,3 +1,36 @@
+# Current continuation — 2.7.2 paste and context recovery (2026-10-17)
+
+Read CHANGELOG_2.7.2_WIP_AR.md and docs/PASTE_CONTEXT_RECOVERY_2.7.2_AR.md.
+Existing 2.7.1 installed source matched all 239 manifest hashes before changes.
+Source restore: paste_context_before_fix.zip; private project metadata snapshot
+and original MP3 SHA preserved outside public source. The desktop runtime is
+now RashSpeak_Studio_2.7_WIP, NOT the removed older2.6.4 directory.
+
+Owner project 2026-10-17_14-08-47 reached media review: service response rejected
+with legacy "unknown Short range". Raw reply/cache absent, so exact offending
+ID is unknown. Keep valid grounded sentence rows even if optional Short is
+invalid, cache raw response, surface rejection warnings. Sentence validation,
+rights/scene gates and 25–60s complete contiguous Short rules remain strict.
+Legacy response error now classified separately from credential/network errors.
+API paste uses explicit user action only, masked input, Windows Arabic-layout
+virtual key handling; native theme text contrast fixed. No real clipboard read
+or key save in tests. Recovery actions pinned above tabs at1040x660.
+
+Native paste fixture and read-only owner media-review display observed on the
+actual Windows device. Real key preflight found previous same-key quota stop;
+DO NOT clear/bypass it or retry generation automatically. Installed runtime's
+quota file was absent, previous source runtime still paused. New requests=0.
+Owner must explicitly resume after quota renewal. No new ASR, downloads or
+accepted final episode/Shorts in this patch. Owner current project has real ASR
+and cleaned audio already; do not repeat them to repair content planning.
+
+Preserve owner running main/API windows and their unsaved inputs. Update takes
+effect after stop-and-save review, close, and relaunch. Source-only public ZIP,
+existing local venv reused for extracted-launch checks; no standalone EXE claim.
+Historical sections below are not current acceptance or runtime state.
+
+---
+
 # Current continuation —2.7.1 Arabic display repair (2026-10-17)
 
 Read CHANGELOG_2.7.1_WIP_AR.md and docs/ARABIC_DISPLAY_2.7.1_AR.md.

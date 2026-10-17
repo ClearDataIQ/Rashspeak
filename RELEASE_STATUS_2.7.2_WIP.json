@@ -1,0 +1,22 @@
+{
+  "version": "2.7.2 WIP",
+  "tests": 402,
+  "failures": 0,
+  "skips": 0,
+  "seconds": 132.488,
+  "platform": "Actual Windows11 / Python3.13 / Tk8.6",
+  "scope": "API paste, Windows native-theme contrast, independent invalid optional Short rejection, media recovery diagnostics/controls",
+  "new_regressions": 12,
+  "native_dummy_paste_observed": true,
+  "real_clipboard_read_or_changed": false,
+  "owner_media_review_read_only_observed": true,
+  "owner_project_and_original_recording_preserved": true,
+  "new_live_generation_requests": 0,
+  "live_test_blocker": "Previous same-key quota circuit retained; no automatic resume or paid fallback",
+  "real_response_raw_reply_available": false,
+  "new_tests_use_declared_responses": true,
+  "real_final_production": "Still needs_media: pending source rights/verified matching scenes; no new accepted long/Shorts",
+  "ASR_and_clean_audio_rerun": false,
+  "standalone_EXE": false,
+  "owner_running_app_kept_open": true
+}
