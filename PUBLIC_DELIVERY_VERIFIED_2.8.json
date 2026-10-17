@@ -1,0 +1,69 @@
+{
+  "version": "2.8 WIP",
+  "source_commit": "2a9838c9735c3bfb3e7acb9b8dc61d2258c8a528",
+  "checks": [
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/2a9838c9735c3bfb3e7acb9b8dc61d2258c8a528/RashSpeak_Studio_2.8_WIP.zip",
+      "HTTP": 200,
+      "size": 852071,
+      "sha256": "e25c5b789d4865a188b2e447123fb57278d4b585f0d52e48b35649c07686153b",
+      "CRC": true,
+      "all_source_hashes": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.8_WIP.zip",
+      "HTTP": 200,
+      "size": 852071,
+      "sha256": "e25c5b789d4865a188b2e447123fb57278d4b585f0d52e48b35649c07686153b",
+      "CRC": true,
+      "all_source_hashes": true
+    }
+  ],
+  "tests": 424,
+  "files": 259,
+  "historical_media_blobs_unchanged": 12,
+  "Git_history_preserved": true,
+  "final_package_native_QA": {
+    "actual_product_window_observed": true,
+    "extracted_BAT_exit_code": 0,
+    "native_dark_titlebar_observed": true,
+    "initial_stage_strip_and_progress_hidden": true,
+    "empty_product_window_closed_only": true,
+    "active_owner_window_kept": true,
+    "active_source_project_available_in_installed_history_without_moving_data": true,
+    "source_hashes_unchanged_after_boot": 258,
+    "runtime_linked_outside_ZIP": true,
+    "minimum1040x660_nested_review_verified_by_Tk_tests": true,
+    "native_recovery_minimum_window_observed": true,
+    "new_full_channel_production_acceptance": false
+  },
+  "downloaded_bytes_identical_to_launched_archive": true,
+  "downloaded_extracted_BAT_launched": false,
+  "runtime": "Existing local virtualenv linked outside ZIP; not standalone EXE",
+  "local_source_installation": {
+    "version": "2.8 WIP",
+    "source_files_verified": 259,
+    "private_JSON_count": 263,
+    "protected_JSON_unchanged": true,
+    "original_recording_SHA_unchanged": true,
+    "no_real_source_grants_added": true,
+    "no_quota_or_credential_changes": true,
+    "owner_running_windows_kept": true,
+    "restart_required": true,
+    "source_output_models_venv_settings_not_copied": true
+  },
+  "dedicated_live_API_checks": 0,
+  "total_suite_API_requests": "Not instrumented",
+  "real_channel_full_production_retested": false,
+  "new_accepted_long_or_Shorts": 0,
+  "public_contains_owner_settings_keys_or_recordings": false,
+  "owner_started_new_attempt": {
+    "stage": "audio",
+    "status": "waiting_for_review",
+    "asr_cache_saved": true,
+    "developer_approved_audio": false,
+    "active_window_left_open": true,
+    "history_link_preserves_same_project": true,
+    "not_counted_as_developer_end_to_end_acceptance": true
+  }
+}
