@@ -1,0 +1,42 @@
+{
+  "version": "2.7.2 WIP",
+  "source_commit": "f4719eea9871f9309eef6f4c809cd097e261f47b",
+  "checks": [
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/f4719eea9871f9309eef6f4c809cd097e261f47b/RashSpeak_Studio_2.7.2_WIP.zip",
+      "http_status": 200,
+      "size": 822682,
+      "sha256": "0b766bf01c7f43cd2f4838b8b1539d7375c543ec27f731c109c68304cb86f1fa",
+      "CRC": true,
+      "all_file_hashes": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ClearDataIQ/Rashspeak/main/RashSpeak_Studio_2.7.2_WIP.zip",
+      "http_status": 200,
+      "size": 822682,
+      "sha256": "0b766bf01c7f43cd2f4838b8b1539d7375c543ec27f731c109c68304cb86f1fa",
+      "CRC": true,
+      "all_file_hashes": true
+    }
+  ],
+  "tests": 402,
+  "source_files": 245,
+  "historical_media_blobs_unchanged": 12,
+  "git_history_preserved": true,
+  "native_dummy_paste_observed": true,
+  "owner_actual_media_review_read_only_observed": true,
+  "locally_extracted_BAT_launched": true,
+  "local_exit_code": null,
+  "owner_continued_using_extracted_window": true,
+  "downloaded_extracted_BAT_launched": false,
+  "downloaded_extracted_BAT_exit": null,
+  "runtime": "Existing local virtualenv, linked outside ZIP; not a standalone EXE",
+  "owner_running_app_preserved": true,
+  "private_recordings_keys_settings_uploaded": false,
+  "new_live_API_requests": 0,
+  "new_accepted_videos": 0,
+  "same_key_previous_quota_stop_retained": true,
+  "downloaded_bytes_identical_to_locally_launched_archive": true,
+  "local_source_installation_verified": true,
+  "local_source_files_verified": 245
+}
